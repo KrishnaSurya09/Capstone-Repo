@@ -1,5 +1,5 @@
 > x
-[1] 1 5  8  3  9  2  7  4  6 10 19
+[1] 0 1 5  8  3  9  2  7  4  6 10 18 65
 > # find the minimum
 > min(x)
 > # find the maximum
